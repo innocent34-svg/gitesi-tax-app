@@ -1,7 +1,6 @@
-
 {
-  "name": "gitesi-tax-control-app",
-  "version": "1.0.0",
+  "name": "gitesi-tax-app",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

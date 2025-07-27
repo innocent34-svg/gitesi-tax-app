@@ -1,3 +1,2 @@
-# Gitesi Tax Control App
-
-This is a React app setup for deployment via Vercel.
+# Gitesi Tax App
+This is a simple React app for displaying tax information.
